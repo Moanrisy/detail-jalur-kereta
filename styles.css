@@ -1,0 +1,27 @@
+.station img {
+    width: 100px;
+    height: 75px;
+    border-radius: 20%;
+}
+
+.station {
+    display: flex;
+    padding: 5px 0;
+}
+
+.station-desc {
+    width: 100%;
+}
+
+.station-desc p {
+    margin: 0;
+    padding: 0;
+}
+
+.station-desc p.title {
+    font-weight: bold;
+}
+
+.detail-btn {
+    width: 100%;
+}
